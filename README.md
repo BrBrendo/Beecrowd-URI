@@ -1,2 +1,2 @@
 # Beecrowd-URI
-exercícios da plataforma URI
+exercícios da plataforma URI em C.
